@@ -1,5 +1,4 @@
 let apiCalls;
-const logToFile = require("log-to-file");
 const allureReporter = require("@wdio/allure-reporter").default;
 const allure = require("allure-commandline");
 const fs = require("fs");
