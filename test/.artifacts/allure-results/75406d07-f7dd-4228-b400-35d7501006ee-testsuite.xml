@@ -1,0 +1,316 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1676375589543' stop='1676375652975'>
+    <name>QaWolf.com  </name>
+    <title>QaWolf.com  </title>
+    <test-cases>
+        <test-case start='1676375589544' status='passed' stop='1676375594571'>
+            <name>should be able to launch url</name>
+            <title>should be able to launch url</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='df3188e1-d7a1-47a1-9489-75b9b9261af5-attachment.png' type='image/png' size='284721'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375594572' status='passed' stop='1676375599862'>
+            <name>user should be able to select  industries and click on startups</name>
+            <title>user should be able to select  industries and click on startups</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='081a2336-984b-4e67-b2c8-07f818446409-attachment.png' type='image/png' size='156015'/>
+                <attachment title='Screenshot' source='46ad96c6-8118-4ec3-8035-5ba391fd76c3-attachment.png' type='image/png' size='141650'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375599871' status='passed' stop='1676375601787'>
+            <name>user should be able to select  industries and click on Fintech</name>
+            <title>user should be able to select  industries and click on Fintech</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2cdaa06b-5958-4c5e-9f58-fcb49e7d58c6-attachment.png' type='image/png' size='104928'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375601787' status='passed' stop='1676375603659'>
+            <name>user should be able to select  industries and click on Healthcare</name>
+            <title>user should be able to select  industries and click on Healthcare</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0826a92f-f31c-42c3-b163-8de2c0396bc8-attachment.png' type='image/png' size='99012'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375603659' status='passed' stop='1676375608066'>
+            <name>user should be able to select  industries and click on eCommerce &amp; Retail</name>
+            <title>user should be able to select  industries and click on eCommerce &amp; Retail</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dc60cd8e-1ed6-4178-9767-9580d25240d5-attachment.png' type='image/png' size='108268'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375608068' status='passed' stop='1676375610752'>
+            <name>user should be able to select  industries and click on Blockchain &amp; Web3</name>
+            <title>user should be able to select  industries and click on Blockchain &amp; Web3</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8ec532b7-390e-4f1a-9093-b9d47d1a132c-attachment.png' type='image/png' size='115749'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375610753' status='passed' stop='1676375612489'>
+            <name>user should be able to select  industries and click on HR &amp; Recruiting</name>
+            <title>user should be able to select  industries and click on HR &amp; Recruiting</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='431524fe-7228-402c-a5ae-bfbe33b935b7-attachment.png' type='image/png' size='118291'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375612489' status='passed' stop='1676375614404'>
+            <name>user should be able to select  industries and click on Property Management</name>
+            <title>user should be able to select  industries and click on Property Management</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fba113f3-8478-44b0-8b78-013f7edf5cf3-attachment.png' type='image/png' size='129532'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375614405' status='passed' stop='1676375618184'>
+            <name>user should be able to select  test anything and click on email</name>
+            <title>user should be able to select  test anything and click on email</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='68cb02e0-f9fd-4957-862a-e3ffaec56967-attachment.png' type='image/png' size='111094'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375618185' status='passed' stop='1676375620838'>
+            <name>user should be able to select  test anything and click on IntegrationsAndApi</name>
+            <title>user should be able to select  test anything and click on IntegrationsAndApi</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='92db47e6-91b4-46ac-8479-263380727f41-attachment.png' type='image/png' size='122946'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375620839' status='passed' stop='1676375623185'>
+            <name>user should be able to select  test anything and click on Multi-user flows</name>
+            <title>user should be able to select  test anything and click on Multi-user flows</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bc71cf1f-c264-4a31-9495-c02dba7e0e09-attachment.png' type='image/png' size='112613'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375623185' status='passed' stop='1676375627907'>
+            <name>user should be able to select  test anything and click on SMS and phone calls</name>
+            <title>user should be able to select  test anything and click on SMS and phone calls</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='54a9576b-53e8-4a4c-aae4-218354c2deb0-attachment.png' type='image/png' size='118974'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375627909' status='passed' stop='1676375629907'>
+            <name>user should be able to select  test anything and click on iFrames</name>
+            <title>user should be able to select  test anything and click on iFrames</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fe145576-57d8-499a-b8d9-e524f2abc6ef-attachment.png' type='image/png' size='107893'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375629907' status='passed' stop='1676375631783'>
+            <name>user should be able to select  test anything and Chrome extensions</name>
+            <title>user should be able to select  test anything and Chrome extensions</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b5ad3e0b-22ed-4d5a-a539-b4fb9c69e7c4-attachment.png' type='image/png' size='132055'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375631783' status='passed' stop='1676375635625'>
+            <name>user should be able to  select content and caseStudy</name>
+            <title>user should be able to  select content and caseStudy</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='27c3a6c2-2601-4652-8a72-cd19cf93dfb2-attachment.png' type='image/png' size='310225'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375635634' status='passed' stop='1676375640301'>
+            <name>user should be able to  select content and Blog</name>
+            <title>user should be able to  select content and Blog</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f7fd5906-fe17-4c23-b3aa-1ce2e8dbfafe-attachment.png' type='image/png' size='147208'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375640301' status='passed' stop='1676375642964'>
+            <name>user should be able to  select content and Buying guide</name>
+            <title>user should be able to  select content and Buying guide</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c434b047-bef1-491f-a6d0-162d034c9ba5-attachment.png' type='image/png' size='151950'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375642964' status='passed' stop='1676375644143'>
+            <name>user should be able to  select Get started</name>
+            <title>user should be able to  select Get started</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9d42df49-308e-4503-94b6-f817f74fe7d8-attachment.png' type='image/png' size='67483'/>
+            </attachments>
+        </test-case>
+        <test-case start='1676375644143' status='passed' stop='1676375652974'>
+            <name>user should be able to enter email and click on schedule demo button</name>
+            <title>user should be able to enter email and click on schedule demo button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-110.0.5481.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='38f37f45-923c-4f4b-8bf7-856c15f765b6-attachment.png' type='image/png' size='83927'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
