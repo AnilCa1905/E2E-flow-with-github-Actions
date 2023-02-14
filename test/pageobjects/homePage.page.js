@@ -22,6 +22,10 @@ class Homepage extends Common {
         this.$BlockchainWeb3 = (name) => $(`(//a[text()="${name}"])[2]`);
         this.$hrRecruiting = (name) => $(`(//a[text()="${name}"])[2]`);
         this.$PropertyManagement = (name) => $(`(//a[text()="${name}"])[2]`);
+        this.$getStarted = (menu) => $(`//a[contains(text(),'${menu}')]`);
+        this.$email2 = () => $(`#Email`);
+        this.$scheduleButton = () => $(`//input[@class="button-primary w-button"]`);
+        this.$scheduledate = () => $(`(//td[@role="gridcell"])[27]`);
     }
 
     async startUps(menu, name) {
@@ -106,6 +110,15 @@ class Homepage extends Common {
         await browser.pause(1000);
         await this.$buyingGuide().click();
     }
+    async getStarted(menu) {
+        await this.$getStarted(menu).click();
+
+    }
+    async scheduleDemo() {
+        await this.$email2().setValue("a_nil@gmail.com");
+        await this.$scheduleButton().click();
+    }
+ 
 
 
 }
