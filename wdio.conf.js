@@ -50,7 +50,7 @@ exports.config = {
     // https://saucelabs.com/platform/platform-configurator
     //
     capabilities: [{
-    
+
         // maxInstances can get overwritten per capability. So if you have an in-house Selenium
         // grid with only 5 firefox instances available you can make sure that not more than
         // 5 instances get started at a time.
@@ -58,7 +58,9 @@ exports.config = {
         //
         'browserName': 'chrome',
         'acceptInsecureCerts': true,
-        'goog:chromeOptions' : {args:[  '--window-size=1920,1080',  '--incognito',  '--headless',]},
+        'goog:chromeOptions': { args: ['--window-size=1920,1080', '--incognito', 
+        //'--headless',
+    ] },
         // If outputDir is provided WebdriverIO can capture driver session logs
         // it is possible to configure which logTypes to include/exclude.
         // excludeDriverLogs: ['*'], // pass '*' to exclude all driver session logs
@@ -112,7 +114,7 @@ exports.config = {
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
     services: ['chromedriver'],
-    
+
     // Framework you want to run your specs with.
     // The following are supported: Mocha, Jasmine, and Cucumber
     // see also: https://webdriver.io/docs/frameworks
@@ -136,7 +138,7 @@ exports.config = {
     reporters: ['spec'],
 
 
-    
+
     //
     // Options to be passed to Jasmine.
     jasmineOpts: {
@@ -146,11 +148,11 @@ exports.config = {
         // The Jasmine framework allows interception of each assertion in order to log the state of the application
         // or website depending on the result. For example, it is pretty handy to take a screenshot every time
         // an assertion fails.
-        expectationResultHandler: function(passed, assertion) {
+        expectationResultHandler: function (passed, assertion) {
             // do something
         }
     },
-    
+
     //
     // =====
     // Hooks

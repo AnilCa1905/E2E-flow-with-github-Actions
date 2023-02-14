@@ -5,9 +5,6 @@ module.exports=class Common{
     constructor(){
     
        this.$homePageHeader = () => $(`//h1[text()="Kiss bugs goodbye"]`);
-
-    
-    
     }
     
     
